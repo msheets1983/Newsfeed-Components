@@ -84,7 +84,17 @@ const data = [{
         thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+    },
+    {
+        title: 'Added Article',
+        date: 'April 8th, 2020',
+        firstParagraph: `I'm baby fixie church-key schlitz, normcore chicharrones seitan food truck vexillologist kinfolk narwhal unicorn. Messenger bag vaporware fanny pack poutine meditation readymade beard listicle tacos austin hammock irony 90's. Hot chicken plaid hammock kombucha schlitz vaporware. Tilde brooklyn letterpress air plant celiac live-edge selvage narwhal kombucha roof party keffiyeh coloring book locavore chia. Occupy banh mi narwhal, unicorn hella cray raw denim master cleanse tofu hot chicken chartreuse neutra hammock ramps DIY.`,
+
+        secondParagraph: `Lo-fi next level pok pok pour-over. Ethical tousled mlkshk cronut. Wolf letterpress austin, forage taxidermy activated charcoal snackwave stumptown slow-carb migas raw denim. Biodiesel swag post-ironic normcore, organic banjo chambray cardigan migas DIY.`,
+
+        thirdParagraph: `Direct trade hashtag tumeric, bespoke glossier hell of fashion axe. Try-hard venmo chartreuse organic biodiesel hot chicken plaid, kickstarter poutine. Kickstarter mustache normcore, thundercats lomo quinoa scenester heirloom schlitz. Try-hard organic aesthetic, cred craft beer selvage kickstarter kitsch bitters. Narwhal cray palo santo iPhone quinoa raw denim XOXO cred trust fund heirloom. Hot chicken prism fixie tumblr franzen enamel pin glossier raw denim kickstarter pitchfork cornhole mustache readymade letterpress mlkshk.`
     }
+
 ];
 
 /* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
